@@ -10,6 +10,8 @@ public class RandomClassTest {
 		instance.print(null);
 		
 	}
+	
+	public void metod2(){}
 
 }
 //jiu
